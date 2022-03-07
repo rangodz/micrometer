@@ -1,4 +1,4 @@
-package com.jcdecaux.cpr.micrometer;
+package micrometer;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Import;
